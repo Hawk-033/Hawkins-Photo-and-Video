@@ -7,7 +7,7 @@ html {
 body {
   align-content: center;
   margin: 0 auto;
-  background-color: #23272A;
+  background-color: #292C2E;
   padding: 0px 0px 0px 0px;
   border: 0px solid black;
 }
@@ -51,7 +51,7 @@ li a {
   text-decoration: none;
 }
 
-li a:hover {
+li a:hover, .active {
   background-color: #042139;
 
 }
